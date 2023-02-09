@@ -1,2 +1,2 @@
 #!/bin/bash
-script that switch current user
+su betty
